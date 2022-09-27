@@ -12,5 +12,5 @@ num_ducks = 100
 
 ducks = [f":{d}:" for d in random.choices(list(ducks_and_weight.keys()), list(ducks_and_weight.values()), k=num_ducks)]
 
-slack_string=' '.join(ducks)
+slack_string = ''.join(ducks)
 print(f"{slack_string}")
