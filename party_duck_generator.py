@@ -5,7 +5,7 @@ ducks_and_weight = {
     "partyduck_dance1": 100,
     "partyduck_dance2": 100,
     "partyduccc": 20,
-    "party-dinosaur": 1,
+    "party-dinosaur": 5,
     "space": 100,
     "newline": 5
 }
