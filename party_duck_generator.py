@@ -6,14 +6,17 @@ ducks_and_weight = {
     "partyduck_dance2": 1000,
     "partyduccc": 200,
     "party-dinosaur": 1,
-    None: 100
+    "space": 1000,
+    "newline": 50
 }
 
 num_ducks = 100
 
 def slack_token(duck):
-    if duck == None:
+    if duck == "space":
         return " "
+    if duck == "newline":
+        return "\n"
     return f":{duck}:"
 
 ducks = [slack_token(d) for d in random.choices(list(ducks_and_weight.keys()), list(ducks_and_weight.values()), k=num_ducks)]
