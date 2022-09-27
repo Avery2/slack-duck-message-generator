@@ -1,13 +1,13 @@
 import random
 
 ducks_and_weight = {
-    "partyduck": 1000,
-    "partyduck_dance1": 1000,
-    "partyduck_dance2": 1000,
-    "partyduccc": 200,
+    "partyduck": 100,
+    "partyduck_dance1": 100,
+    "partyduck_dance2": 100,
+    "partyduccc": 20,
     "party-dinosaur": 1,
-    "space": 1000,
-    "newline": 50
+    "space": 100,
+    "newline": 5
 }
 
 num_ducks = 100
