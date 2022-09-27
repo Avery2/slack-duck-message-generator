@@ -2,4 +2,4 @@
 
 https://user-images.githubusercontent.com/53503018/192406085-5f55c287-ea07-4c9d-aea6-5c8dd967fe28.mov
 
-See `ducks` folder for raw `.gif` files.
+See `ducks` folder for raw `.gif` files to add to Slack as custom emojis. Some emojis made with [pixilart.com](pixilart.com).
